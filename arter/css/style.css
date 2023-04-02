@@ -966,6 +966,7 @@ info bar
   border-radius: 50%;
   z-index: 0;
 }
+
 .art-info-bar .art-header .art-avatar .art-avatar-curtain:hover {
   opacity: 1;
   -webkit-transition: 0.2s ease-in-out;
@@ -2266,6 +2267,7 @@ portfolio
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
 }
+
 .art-portfolio-item-frame .art-item-hover {
   width: 27px;
   height: 27px;
